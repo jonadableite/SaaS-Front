@@ -20,8 +20,8 @@ import {
 	FiCheckCircle,
 	FiEye,
 	FiEyeOff,
-	FiMoon, // Importar FiMoon
-	FiSun, // Importar FiSun
+	FiMoon,
+	FiSun,
 } from "react-icons/fi";
 import {
 	RiFlowChart,
